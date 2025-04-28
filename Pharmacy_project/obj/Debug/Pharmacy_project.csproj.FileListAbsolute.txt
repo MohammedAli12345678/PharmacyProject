@@ -13,3 +13,18 @@ D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pha
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CopyComplete
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.exe
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.pdb
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.exe.config
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.exe
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.pdb
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.dll
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.xml
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csprojAssemblyReference.cache
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.Properties.Resources.resources
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\PharmacySystem.Viwes.launcher.resources
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.GenerateResource.cache
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CoreCompileInputs.cache
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CopyComplete
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.exe
+C:\Users\Engineering\Source\Repos\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.pdb
