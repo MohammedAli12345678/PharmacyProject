@@ -1,0 +1,15 @@
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\Pharmacy_project.exe.config
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\Pharmacy_project.exe
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\Pharmacy_project.pdb
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\EntityFramework.dll
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\EntityFramework.xml
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csprojAssemblyReference.cache
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.Properties.Resources.resources
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\PharmacySystem.Viwes.launcher.resources
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.GenerateResource.cache
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CoreCompileInputs.cache
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CopyComplete
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.exe
+D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.pdb
