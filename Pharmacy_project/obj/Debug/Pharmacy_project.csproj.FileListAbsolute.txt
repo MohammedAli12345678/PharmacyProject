@@ -13,3 +13,19 @@ D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pha
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CopyComplete
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.exe
 D:\Applcations\Aplcation C# Asam\Pharmacy_project\Pharmacy_project\obj\Debug\Pharmacy_project.pdb
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csprojAssemblyReference.cache
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\PharmacySystem.Viwes.launcher.resources
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.view.Sales.resources
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.GenerateResource.cache
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.exe
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.pdb
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.exe.config
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.exe
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\Pharmacy_project.pdb
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.dll
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.xml
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.Properties.Resources.resources
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CoreCompileInputs.cache
+C:\Users\alraw\source\repos\Csharb Project\PharmacyProject\Pharmacy_project\obj\Debug\Pharmacy_project.csproj.CopyComplete

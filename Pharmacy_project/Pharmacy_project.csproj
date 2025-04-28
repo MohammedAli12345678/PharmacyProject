@@ -114,17 +114,21 @@
     <Compile Include="view\launcher.Designer.cs">
       <DependentUpon>launcher.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="view\launcher.resx">
       <DependentUpon>launcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
     </EmbeddedResource>
     <EntityDeploy Include="Model.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
@@ -161,6 +165,10 @@
       <DependentUpon>Model.edmx</DependentUpon>
       <LastGenOutput>Model.cs</LastGenOutput>
     </Content>
+    <Content Include="Resources\WIN_20250308_20_22_54_Pro %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="view\View_Models\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
